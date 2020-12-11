@@ -19,7 +19,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.7.2",
     "@ladjs/bootstrap-social": "^7.0.2",
-    "@octokit/rest": "^16.16.0",
+    "@octokit/rest": "^16.43.2",
     "axios": "^0.18.0",
     "bcrypt-nodejs": "^0.0.3",
     "body-parser": "^1.18.3",
